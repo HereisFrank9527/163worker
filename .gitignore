@@ -1,0 +1,51 @@
+# Python byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+.conda/
+
+# Build and distribution directories
+dist/
+build/
+*.spec
+
+# Project-specific directories to ignore
+images/
+wwwroot/
+examples/
+downloads/
+trans/
+
+# Configuration files that may contain sensitive information
+config.json
+
+# PyInstaller temporary files
+*.manifest
+*.exe.manifest
+*.ico
+
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# Other temporary files
+*.tmp
+*.temp
