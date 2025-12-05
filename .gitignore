@@ -10,6 +10,7 @@ __pycache__/
 *.swo
 *~
 .DS_Store
+.trae/
 
 # Logs
 logs/
